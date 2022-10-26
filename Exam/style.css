@@ -1,0 +1,134 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+}
+
+
+.row_nav{
+    display: flex;
+    background: rgba(0, 0, 0, 0.8);
+    height: 45px;
+    color: white;
+    gap: 43px;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+}
+
+.header_nav{
+    display: flex;
+    gap: 43px;
+}
+
+.row_header{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #FBFBFD;
+    height: 740px;
+}
+
+.header_title{
+    font-size: 56px;
+    color: #1D1D1F;
+    margin-top: 51px;
+    margin-bottom: 0px;
+}
+
+.header_text{
+    font-size: 28px;
+    color: #1D1D1F;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.primary_btn{
+    font-size: 21px;
+    line-height: 29px;
+    letter-spacing: 0.231px;
+    color: #0066CC;
+    display: flex;
+    gap: 40px;
+}
+
+.header_img{
+    margin-bottom: 12px;
+}
+
+.row_section{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 740px;
+    background: black;
+    height: 740px;
+}
+
+.section_title{
+    color: #F5F5F7;
+    font-size: 56px;
+    margin-top: 51px;
+    margin-bottom: 0px;
+}
+
+.section_text{
+    font-size: 28px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    color: #F5F5F7;
+}
+
+.section_img_phone{
+    width: 770px;
+}
+
+.section_watch{
+    margin-top: 76px;
+}
+
+.section_new{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 0px;
+    color: white;
+}
+
+.watch_series .airpods_pro{
+    position: relative;
+}
+
+.section_new_text{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.post_img{
+    height: 580px;
+}
+
+.section_new_img{
+    height: 52px;
+}
+
+.section_new_text h4{
+    color: #F5F5F7;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+.section_new_text h6{
+    color: #F5F5F7;
+    font-size: 21px;
+    margin-bottom: 0px;
+}
+
+
+
